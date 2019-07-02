@@ -1,0 +1,14 @@
+{
+  "name": "traity",
+  "version": "1.0.0",
+  "description": "An experimental trait (typeclass) runtime for TypeScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
